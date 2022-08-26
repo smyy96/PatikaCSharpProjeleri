@@ -1,0 +1,16 @@
+C:\Users\Sumeyye\source\repos\PatikaC#Projeleri\OrtalamaHesaplama\FibonacciOrt\FibonacciOrt\bin\Debug\net5.0\FibonacciOrt.exe
+C:\Users\Sumeyye\source\repos\PatikaC#Projeleri\OrtalamaHesaplama\FibonacciOrt\FibonacciOrt\bin\Debug\net5.0\FibonacciOrt.deps.json
+C:\Users\Sumeyye\source\repos\PatikaC#Projeleri\OrtalamaHesaplama\FibonacciOrt\FibonacciOrt\bin\Debug\net5.0\FibonacciOrt.runtimeconfig.json
+C:\Users\Sumeyye\source\repos\PatikaC#Projeleri\OrtalamaHesaplama\FibonacciOrt\FibonacciOrt\bin\Debug\net5.0\FibonacciOrt.runtimeconfig.dev.json
+C:\Users\Sumeyye\source\repos\PatikaC#Projeleri\OrtalamaHesaplama\FibonacciOrt\FibonacciOrt\bin\Debug\net5.0\FibonacciOrt.dll
+C:\Users\Sumeyye\source\repos\PatikaC#Projeleri\OrtalamaHesaplama\FibonacciOrt\FibonacciOrt\bin\Debug\net5.0\FibonacciOrt.pdb
+C:\Users\Sumeyye\source\repos\PatikaC#Projeleri\OrtalamaHesaplama\FibonacciOrt\FibonacciOrt\obj\Debug\net5.0\FibonacciOrt.csproj.AssemblyReference.cache
+C:\Users\Sumeyye\source\repos\PatikaC#Projeleri\OrtalamaHesaplama\FibonacciOrt\FibonacciOrt\obj\Debug\net5.0\FibonacciOrt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sumeyye\source\repos\PatikaC#Projeleri\OrtalamaHesaplama\FibonacciOrt\FibonacciOrt\obj\Debug\net5.0\FibonacciOrt.AssemblyInfoInputs.cache
+C:\Users\Sumeyye\source\repos\PatikaC#Projeleri\OrtalamaHesaplama\FibonacciOrt\FibonacciOrt\obj\Debug\net5.0\FibonacciOrt.AssemblyInfo.cs
+C:\Users\Sumeyye\source\repos\PatikaC#Projeleri\OrtalamaHesaplama\FibonacciOrt\FibonacciOrt\obj\Debug\net5.0\FibonacciOrt.csproj.CoreCompileInputs.cache
+C:\Users\Sumeyye\source\repos\PatikaC#Projeleri\OrtalamaHesaplama\FibonacciOrt\FibonacciOrt\obj\Debug\net5.0\FibonacciOrt.dll
+C:\Users\Sumeyye\source\repos\PatikaC#Projeleri\OrtalamaHesaplama\FibonacciOrt\FibonacciOrt\obj\Debug\net5.0\refint\FibonacciOrt.dll
+C:\Users\Sumeyye\source\repos\PatikaC#Projeleri\OrtalamaHesaplama\FibonacciOrt\FibonacciOrt\obj\Debug\net5.0\FibonacciOrt.pdb
+C:\Users\Sumeyye\source\repos\PatikaC#Projeleri\OrtalamaHesaplama\FibonacciOrt\FibonacciOrt\obj\Debug\net5.0\FibonacciOrt.genruntimeconfig.cache
+C:\Users\Sumeyye\source\repos\PatikaC#Projeleri\OrtalamaHesaplama\FibonacciOrt\FibonacciOrt\obj\Debug\net5.0\ref\FibonacciOrt.dll
