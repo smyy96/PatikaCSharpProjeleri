@@ -1,11 +1,19 @@
-# Patika C# Projeleri
+# Patika Sipay Bootcamp
 
 ```
-Patika platformundaki C# Projeleri ders içeriği.
+Patika platformunun gerçekleştirmiş olduğu bootcamp'in ödevleri ve içerikleri.
 
-• Ortalama Hesaplama
-    Kulanıcıdan alınan derinliğe göre fibonacci serisindeki rakamların ortalamasını 
-    alıp ekrana yazdıran uygulamayı yazınız.
+• 1. Restful Api Geliştirin
+    Rest standartlarna uygun olmalıdır.
+    GET,POST,PUT,DELETE,PATCH methodları kullanılmalıdır.
+    Http status code standartlarına uyulmalıdır. Error Handler
+        ile 500, 400, 404, 200, 201 hatalarının standart format ile verilmesi
+    Modellerde zorunlu alanların kontrolü yapılmalıdır.
+    Routing kullanılmalıdır.
+    Model binding işlemleri hem body den hemde query den yapılacak
+         şekilde örneklendirilmelidir. Bonus:
+    Standart crud işlemlerine ek olarak, listeleme ve sıralama
+        işlevleride eklenmelidir. Örn: /api/products/list?name=abc
 
 ```
-[Ders İçeriği](https://app.patika.dev/courses/c-projeleri)
+
